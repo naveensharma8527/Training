@@ -1,0 +1,14 @@
+h1{
+    margin: auto;
+    text-align: center;
+    color: #dc2626;
+}
+#info{
+    text-align: center;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
